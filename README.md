@@ -2,12 +2,12 @@
 
 
 ____________________________________________________________________________________________________________________________________________
-Data analytics || Data Science || Machine Learning Enthusiast from Bangladesh
+Data Analytics || Data Science || Machine Learning Enthusiast from Bangladesh
 
 _____________________________________________________________________________________________________________________________________________
 ### 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on Data analytics || Data Science || Machine Learning
+- 🔭 I’m currently working on Data Analytics || Data Science || Machine Learning
 - 🌱 I’m currently learning Machine Learning for Data Science
 - 👯 I’m looking to collaborate on Linkedin
 - 🤔 I’m looking for help with Machine Learning
